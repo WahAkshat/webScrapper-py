@@ -1,7 +1,7 @@
 # webScrapper-py
 Basic understanding level webScrapper-py
 
-Librares needed:
+Librares needed:<br>
 pip install requests<br>
 pip install html5lib<br>
 pip install bs4<br>
